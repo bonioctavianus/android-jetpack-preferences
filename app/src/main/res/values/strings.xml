@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">jetpack-preferences</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>Entry Value 1</item>
+        <item>Entry Value 2</item>
+        <item>Entry Value 3</item>
+    </string-array>
+
 </resources>

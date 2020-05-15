@@ -1,2 +1,2 @@
-rootProject.name='jetpack-preferences'
+rootProject.name='jetpack-settings_preference'
 include ':app'
